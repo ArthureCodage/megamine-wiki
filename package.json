@@ -1,0 +1,17 @@
+{
+  "name": "megamine-wiki",
+  "version": "1.0.0",
+  "description": "Wiki communautaire complet pour le mode MegaMine sur Rinaorc",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": ["minecraft", "rinaorc", "megamine", "wiki", "guide"],
+  "author": "Communauté MegaMine",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
