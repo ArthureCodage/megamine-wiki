@@ -35,7 +35,7 @@ Chaque monde possède un **« Facteur de Mur »** qui détermine la résistance 
 
 ## 🌀 Le Portail de Fin & Survie Bonus
 
-Une fois le Boss final de votre 3ème Étage abattu :
+Une fois le Boss final de votre 3e Étage abattu :
 * Le portail **ne se brise plus** automatiquement.
 * Deux options s'offrent à votre équipe :
   1. **RENTRER** : Vous terminez la partie avec le titre de Victoire, sécurisez votre XP de compte, vos Éclats et vos récompenses de classement.

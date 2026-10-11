@@ -23,7 +23,7 @@ flowchart TD
 ### Règles de la Frénésie
 1. Dès que vous pénétrez dans la salle, **un seul vase s'allume**.
 2. Frappez-le avec votre pioche avant que son halo lumineux ne s'éteigne !
-3. Chaque coup réussi augmente votre jauge de **COMBO** (ex : Combo x12) et multiplie la quantité de pièces récoltées.
+3. Chaque coup réussi augmente votre jauge de **COMBO** (ex : Combo ×12) et multiplie la quantité de pièces récoltées.
 4. Le vase suivant s'allume instantanément ailleurs dans la pièce, à un rythme de plus en plus effréné.
 5. Les reliques jaillissent du sol dans un faisceau lumineux arborant la couleur de leur rareté avant de voler directement vers votre inventaire.
 

@@ -58,7 +58,7 @@ Ces sorts bénéficient d'un rayon ou d'une portée considérablement agrandis :
 | `effondrement` | **Effondrement** | Rayon ×2,3 | Passe de 3 à **7 blocs** de rayon |
 | `blizzard` | **Blizzard** | Rayon ×1,75 | Passe de 4 à **7 blocs** de rayon |
 | `trou-noir` | **Trou noir** | Rayon ×1,75 | Passe de 4 à **7 blocs** de rayon |
-| `faille-arcanique`| **Faille** | Rayon ×1,6 | Passe de 5 à **8 blocs** de rayon |
+| `faille-arcanique` | **Faille** | Rayon ×1,6 | Passe de 5 à **8 blocs** de rayon |
 | `comete` | **Comète** | Rayon ×2 | Passe de 3 à **6 blocs** de rayon |
 | `harpon` | **Harpon** | Rayon ×2 | Passe de 3 à **6 blocs** de rayon |
 | `mega-foreuse` | **Foreuse** | Longueur ×2,5 | Fore de 8 à **20 blocs de profondeur** |
