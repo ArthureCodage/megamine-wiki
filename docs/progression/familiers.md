@@ -23,11 +23,9 @@ Chaque familier possède une jauge d'étoiles indiquant son palier d'évolution 
 
 ---
 
-## 🔍 Exemples de Familiers Clés
+## 🔍 Exemples de Familiers du Bestiaire
 
-![Roster des Familiers](/screenshots/screen_5.png)
-
-Voici quelques exemples emblématiques de familiers aperçus dans les expéditions de haut niveau :
+Parmi les 117 familiers disponibles dans le jeu, voici quelques exemples notables de compagnons et leurs spécialités :
 
 | Familier | Famille / Style | Étoiles Max | Rôle & Spécificités |
 | :--- | :--- | :--- | :--- |

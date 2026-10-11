@@ -6,8 +6,8 @@ hero:
   text: "Le Guide Ultime de Rinaorc"
   tagline: "Tout sur le minage, les 46 compétences, l'arbre du Tesseract, les 117 familiers, les boss et le mode Duel 1v1."
   image:
-    src: /screenshots/screen_5.png
-    alt: Interface de jeu MegaMine
+    src: /logo.svg
+    alt: Logo MegaMine
   actions:
     - theme: brand
       text: 🚀 Guide du Débutant
@@ -31,7 +31,7 @@ features:
     details: Une méta-progression profonde avec des nœuds légendaires (Combo éternel, Double coup, Passe-partout).
   - icon: 🐾
     title: 117 Familiers à Collectionner
-    details: Recrutez Ferrember, Flamearch, Phenicorn et faites monter votre Puissance globale.
+    details: Recrutez vos compagnons élémentaires et faites monter votre Puissance globale.
   - icon: 💀
     title: Boss PVE & Seigneur des Abysses
     details: Affrontez les vagues de monstres, les coffres maudits et le redoutable Seigneur des Abysses pour piller le Coffre des Enfers.
@@ -43,23 +43,32 @@ features:
 <div style="margin-top: 3rem; text-align: center;">
   <h2>Bienvenue sur le Wiki Communautaire MegaMine !</h2>
   <p style="max-width: 700px; margin: 0 auto; color: var(--vp-c-text-2);">
-    MegaMine est l'un des modes les plus complets et addictifs du serveur français <strong>Rinaorc</strong>.
-    Ce wiki rassemble toutes les mécaniques, formules, équilibrages et astuces pour vous aider à maximiser votre rentabilité et dominer les classements.
+    MegaMine est un mode rogue-lite & minage compétitif du serveur français <strong>Rinaorc</strong>.
+    Ce wiki rassemble toutes les mécaniques officielles, formules de calcul, équilibrages et guides pour accompagner chaque joueur, du premier coup de pioche jusqu'au rang Dragon.
   </p>
 </div>
 
 ---
 
-### Aperçu de l'Interface en Jeu
+### Structure de l'Interface de Jeu (HUD)
 
-Voici les éléments clés que vous retrouverez sur votre écran lors de vos sessions de jeu :
+L'affichage en jeu est pensé pour vous donner toutes les informations utiles d'un coup d'œil :
 
-| Élément | Description |
-| :--- | :--- |
-| **Niveau de Compte & XP** | Situé en haut à gauche, vous rapporte 1 point de talent par niveau pour le Tesseract. |
-| **Familiers Actifs** | Situés à gauche, ils minent à vos côtés et montent de niveau avec vous. |
-| **Éclats (Shards)** | Monnaie permanente indispensable pour la Forge (+1 à +20), l'agrandissement du Coffre et le Tesseract. |
-| **Puissance (Power)** | Cumul de la force de votre compte (équipement, familiers, reliques, stats). |
-| **Record & Multiplicateur** | Votre meilleur score en partie et votre vitesse de génération de pièces. |
-
-![HUD MegaMine](/screenshots/screen_5.png)
+```
+┌─────────────────────────────────┬─────────────────────────────────┐
+│  [Haut Gauche]                  │  [Haut Droite]                  │
+│  • Couronne : Niveau de Compte  │  • Riozs (Boutique & Réseau)    │
+│  • Jauge d'XP de Profil         │  • Éclats / Shards (Permanent)  │
+│  • Chronomètre de l'Étage       │  • Puissance (Score de Compte)  │
+│                                 │  • Record de Pièces             │
+├─────────────────────────────────┼─────────────────────────────────┤
+│  [Flanc Gauche]                 │                                 │
+│  • Équipe des 5 Familiers       │                                 │
+│  • Rangs d'Étoiles & Jauges XP  │                                 │
+├─────────────────────────────────┴─────────────────────────────────┤
+│  [Bas Centre]                                                     │
+│  • Barre de Points de Vie (Jusqu'à 3 fioles de potion)            │
+│  • Barre d'Énergie / Capacité de Sac & Jetpack                    │
+│  • Barre d'Action & Multi-outils                                  │
+└───────────────────────────────────────────────────────────────────┘
+```

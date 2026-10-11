@@ -6,10 +6,11 @@ export default defineConfig({
   lang: 'fr-FR',
   base: process.env.BASE_URL || '/',
   head: [
-    ['link', { rel: 'icon', href: '/screenshots/screen_1.png' }]
+    ['link', { rel: 'icon', href: '/logo.svg' }]
   ],
   themeConfig: {
-    siteTitle: '⛏️ MegaMine Wiki',
+    logo: '/logo.svg',
+    siteTitle: 'MegaMine Wiki',
     nav: [
       { text: 'Accueil', link: '/' },
       { text: 'Guide Débutant', link: '/guide/debutant' },

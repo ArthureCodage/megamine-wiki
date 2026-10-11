@@ -15,29 +15,28 @@ MegaMine est un mode hybride combinant :
 
 ## 🖥️ Comprendre son Interface (HUD)
 
-![Aperçu du HUD MegaMine](/screenshots/screen_5.png)
+L'interface de MegaMine regroupe toutes les informations essentielles au bon déroulement de votre expédition :
 
-L'interface de MegaMine regroupe plusieurs informations cruciales :
+### 1. En Haut à Gauche : Progression de Compte & Chronomètre
+* **Couronne & Niveau de Compte** : Votre niveau global. Chaque niveau franchi vous octroie **1 point de talent** à investir dans l'arbre céleste du Tesseract.
+* **Jauge d'XP de Profil** : Affiche votre progression vers le niveau de compte supérieur.
+* **Chronomètre d'Étage** : Décompte le temps restant avant la fin de l'Étage en cours ou le déclenchement d'un événement.
 
-### 1. En Haut à Gauche : Niveau & Temps
-* **Couronne & Niveau (ex: 93)** : Votre niveau global de compte. Chaque niveau vous octroie **1 point de talent** dans l'arbre du Tesseract.
-* **Jauge d'XP (ex: 62/178)** : Progression vers le niveau suivant.
-* **Chrono avec épées (ex: 9:59)** : Indique le temps restant sur l'Étage ou l'événement en cours.
+### 2. Sur le Flanc Gauche : Les Familiers Actifs
+* Affiche votre équipe de **familiers équipés** (jusqu'à 5 simultanément).
+* **Étoiles d'Évolution** : Indiquent le palier de rareté et de puissance du compagnon (de 1 à 5 étoiles).
+* **Jauge d'Expérience** : Chaque familier gagne sa propre expérience lorsqu'il mine et combat à vos côtés.
 
-### 2. Sur la Gauche : Le Roster des Familiers
-* Affiche jusqu'à **5 familiers actifs** équipés à vos côtés.
-* Les étoiles indiquent leur rang de rareté ou d'évolution (ex: `★☆☆☆☆` à `★★★☆☆`).
-* Chaque familier possède une barre d'expérience propre qui monte au fur et à mesure qu'il mine et combat avec vous.
+### 3. En Haut à Droite : Économie & Puissance
+* **💎 Riozs** : Monnaie générale du réseau Rinaorc pour les cosmétiques et la boutique.
+* **⭐ Shards (Éclats)** : Ressource permanente fondamentale pour la méta-progression (améliorations de Forge $+16$ à $+20$, Tesseract et agrandissement du Coffre).
+* **🗡️ Power (Puissance)** : Indicateur chiffré synthétisant la force globale de votre compte (équipement, familiers, reliques, stats passives).
+* **🏆 Record** : Montant record de pièces générées sur votre meilleure partie enregistrée.
 
-### 3. En Haut à Droite : Vos Richesses
-* **💎 Riozs** : Monnaie du réseau Rinaorc (cosmétiques et boutique).
-* **⭐ Shards (Éclats)** : La ressource reine de la méta-progression (nécessaire pour la Forge $+16$ à $+20$, les talents du Tesseract et l'agrandissement du Coffre).
-* **🗡️ Power (Puissance)** : Votre score de combat et d'efficacité calculé à partir de votre équipement et de vos bonus passifs.
-* **🏆 Record** : Le plus gros montant d'argent accumulé en une seule partie.
-
-### 4. En Bas au Centre : Vie & Sac à Dos
-* **Barre Rouge (20/20 PV)** : Vos points de vie. Vous pouvez emporter un maximum de **3 fioles de vie**.
-* **Jauge Bleue avec Icône** : Capacité de votre sac / stamina ou réserve de carburant de jetpack.
+### 4. En Bas au Centre : Survie & Outils
+* **Barre de Points de Vie** : Vos PV actuels. Vous pouvez transporter jusqu'à **3 fioles de vie** en réserve.
+* **Jauge d'Énergie / Mobilité** : Capacité de votre sac à dos ou jauge de poussée de votre jetpack.
+* **Barre d'Action** : Emplacement de votre pioche, multi-outils et consommables.
 
 ---
 
