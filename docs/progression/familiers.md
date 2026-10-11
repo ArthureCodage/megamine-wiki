@@ -17,7 +17,7 @@ Les **Familiers** sont bien plus que de simples cosmétiques : ce sont des compa
 
 Chaque familier possède une jauge d'étoiles indiquant son palier d'évolution et sa rareté intrinsèque :
 
-* **Paliers de 3 à 5 Étoiles** (ex: `★☆☆☆☆` à `★★★★★`).
+* **Paliers de 1 à 5 Étoiles** : De ★☆☆☆☆ (débutant) à ★★★★★ (maîtrise maximale).
 * Plus un familier accumule d'étoiles, plus ses multiplicateurs de minage et ses bonus de **Puissance (Power)** sont élevés.
 * Chaque familier possède sa propre barre d'XP qui progresse en fonction de son activité en jeu.
 
@@ -29,7 +29,7 @@ Parmi les 117 familiers disponibles dans le jeu, voici quelques exemples notable
 
 | Familier | Famille / Style | Étoiles Max | Rôle & Spécificités |
 | :--- | :--- | :--- | :--- |
-| **Ferrember** | Feu & Métal | ★★★ | Familier équilibré d'attaque et de fracture de minerai de fer. |
+| **Ferrember** | Feu & Métal | ★★★☆☆ | Familier équilibré d'attaque et de fracture de minerai de fer. |
 | **Threadarch** | Tisseur Arcanique | ★★★★★ | Lance des tirs perforants en fils d'énergie. |
 | **Flamearch** | Flamme / Distance | ★★★★★ | Bombarde les gisements avec des gerbes incandescentes. |
 | **Phenicorn** | Phénix / Licorne Céleste | ★★★★★ | Allié mystique combinant régénération et destruction rapide. |

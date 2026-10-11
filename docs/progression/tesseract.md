@@ -29,7 +29,7 @@ Le **Tesseract** est le cœur névralgique de votre méta-progression. Fini les 
 
 ## 🔄 Réinitialisation & Coûts
 
-* **Gratuit avant le niveau 10** : Tant que vous êtes novice (niveau $< 10$), retirer des talents et tester des chemins est **100 % gratuit**.
+* **Gratuit avant le niveau 10** : Tant que vous êtes novice (niveau inférieur à 10), retirer des talents et tester des chemins est **100 % gratuit**.
 * **Annulation immédiate gratuite** : Tout talent placé au cours de la session active peut être retiré gratuitement avant de fermer l'interface.
 * **Respec au-delà du niveau 10** : Retirer des talents définitivement validés requiert des **Éclats (Shards)**.
 

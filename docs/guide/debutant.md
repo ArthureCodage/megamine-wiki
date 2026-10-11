@@ -29,7 +29,7 @@ L'interface de MegaMine regroupe toutes les informations essentielles au bon dé
 
 ### 3. En Haut à Droite : Économie & Puissance
 * **💎 Riozs** : Monnaie générale du réseau Rinaorc pour les cosmétiques et la boutique.
-* **⭐ Shards (Éclats)** : Ressource permanente fondamentale pour la méta-progression (améliorations de Forge $+16$ à $+20$, Tesseract et agrandissement du Coffre).
+* **⭐ Shards (Éclats)** : Ressource permanente fondamentale pour la méta-progression (améliorations de Forge +16 à +20, Tesseract et agrandissement du Coffre).
 * **🗡️ Power (Puissance)** : Indicateur chiffré synthétisant la force globale de votre compte (équipement, familiers, reliques, stats passives).
 * **🏆 Record** : Montant record de pièces générées sur votre meilleure partie enregistrée.
 
@@ -69,6 +69,6 @@ flowchart LR
 
 1. **Ne stockez pas vos fioles au sol** : Vous pouvez transporter jusqu'à 3 fioles de vie. Les ennemis dotés d'affixes en lâchent deux fois plus.
 2. **Faites attention aux murs de roche** : Les compétences actives visent automatiquement la roche jusqu'à 40 blocs devant vous. Orientez toujours votre regard vers les filons les plus denses.
-3. **Surveillez votre multiplicateur de vente** : Vendre au bon moment permet d'atteindre jusqu'à **$\times 8$ de vente** au maximum !
+3. **Surveillez votre multiplicateur de vente** : Vendre au bon moment permet d'atteindre jusqu'à **×8 de vente** au maximum !
 4. **Activez vos talents dès le niveau 1** : L'accès à l'arbre du Tesseract est gratuit sous le niveau 10 pour réinitialiser vos points si vous changez d'avis.
 5. **Collectionnez vos familiers** : Même les familiers de départ augmentent votre Puissance globale et accélèrent la vitesse de minage.

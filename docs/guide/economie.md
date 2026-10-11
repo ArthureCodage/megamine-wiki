@@ -9,14 +9,14 @@ L'économie de **MegaMine** repose sur une double boucle : l'argent généré te
 ### 1. L'Argent de Partie
 * Gagné en cassant des blocs, en réussissant des salles de vases et en terrassant des monstres.
 * Sert à acheter des compétences, des livres et des niveaux de pioche **pendant la partie**.
-* L'affichage des très grands montants utilise la notation scientifique abrégée :
-  * `k` : Milliers ($10^3$)
-  * `M` : Millions ($10^6$)
-  * `G` : Milliards ($10^9$)
-  * `T` : Trillions ($10^{12}$)
+* L'affichage des très grands montants utilise la notation abrégée :
+  * **k** : Milliers (×1 000)
+  * **M** : Millions (×1 000 000)
+  * **G** : Milliards (×1 000 000 000)
+  * **T** : Trillions (×1 000 000 000 000)
 
-### 2. Le Multiplicateur de Vente ($\times 8$)
-Le multiplicateur maximum auquel vous pouvez vendre vos minerais a été rehaussé de **$\times 6$ à $\times 8$**. 
+### 2. Le Multiplicateur de Vente (×8 maximum)
+Le multiplicateur maximum auquel vous pouvez vendre vos minerais a été rehaussé de **×6 à ×8**.
 En combinant les cartes d'amélioration, les bonus de familier et les reliques, vous pouvez multiplier considérablement la valeur de chaque bloc collecté.
 
 ### 3. Les Éclats (Shards) ⭐
@@ -26,7 +26,7 @@ Les Éclats sont la monnaie **méta-permanente** la plus précieuse de votre com
 * En ouvrant le **Coffre des Enfers** après le Seigneur des Abysses.
 
 **À quoi servent les Éclats ?**
-1. **La Forge** : Essentiels pour tenter les améliorations d'équipement de $+16$ à $+20$.
+1. **La Forge** : Essentiels pour tenter les améliorations d'équipement de +16 à +20.
 2. **Le Tesseract** : Utilisés pour retirer ou réattribuer des points de talents après le niveau 10.
 3. **Le Coffre** : Pour débloquer des lignes d'inventaire supplémentaires.
 

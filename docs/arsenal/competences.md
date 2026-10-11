@@ -45,7 +45,7 @@ Ces compétences ont vu leur volume de blocs détruits par coup considérablemen
 | `jugement` | **Jugement** | **+16 %** | Rayon divin pulvérisant la trajectoire. |
 | `charge-creuse` | **Missile** | **+16 %** | Missile perforant plus long et plus large. |
 | `sonde-sismique` | **Séisme** | **+15 %** | Onde de choc souterraine. |
-| `mines` | **Mines** | **+5 %** | Rayon étendu (3 $\rightarrow$ 5) avec mèche raccourcie. |
+| `mines` | **Mines** | **+5 %** | Rayon étendu (3 → 5) avec mèche raccourcie. |
 | `dragon` | **Dragon** | **+2 %** | Souffle draconique dévastateur. |
 
 ---
@@ -55,17 +55,17 @@ Ces sorts bénéficient d'un rayon ou d'une portée considérablement agrandis :
 
 | Compétence | Nom en Jeu | Augmentation de Zone | Évolution du Rayon / Portée |
 | :--- | :--- | :--- | :--- |
-| `effondrement` | **Effondrement** | Rayon $\times 2,3$ | Passe de 3 à **7 blocs** de rayon |
-| `blizzard` | **Blizzard** | Rayon $\times 1,75$ | Passe de 4 à **7 blocs** de rayon |
-| `trou-noir` | **Trou noir** | Rayon $\times 1,75$ | Passe de 4 à **7 blocs** de rayon |
-| `faille-arcanique`| **Faille** | Rayon $\times 1,6$ | Passe de 5 à **8 blocs** de rayon |
-| `comete` | **Comète** | Rayon $\times 2$ | Passe de 3 à **6 blocs** de rayon |
-| `harpon` | **Harpon** | Rayon $\times 2$ | Passe de 3 à **6 blocs** de rayon |
-| `mega-foreuse` | **Foreuse** | Longueur $\times 2,5$| Fore de 8 à **20 blocs de profondeur** |
-| `geyser` | **Geyser** | Hauteur $\times 2$ | Colonne propulsée de 4 à **8 blocs** |
-| `gardien` | **Gardien** | Explosion $\times 2,5$| Décharge en couronne d'yeux gardiens |
-| `feu-artifice` | **Fusées** | Impact $\times 2$ | Passe de 2 à **4 blocs** de rayon |
-| `tnt` | **Explosion** | Rayon $\times 1,5$ | Rayon d'explosion de 2 à **3 blocs** |
+| `effondrement` | **Effondrement** | Rayon ×2,3 | Passe de 3 à **7 blocs** de rayon |
+| `blizzard` | **Blizzard** | Rayon ×1,75 | Passe de 4 à **7 blocs** de rayon |
+| `trou-noir` | **Trou noir** | Rayon ×1,75 | Passe de 4 à **7 blocs** de rayon |
+| `faille-arcanique`| **Faille** | Rayon ×1,6 | Passe de 5 à **8 blocs** de rayon |
+| `comete` | **Comète** | Rayon ×2 | Passe de 3 à **6 blocs** de rayon |
+| `harpon` | **Harpon** | Rayon ×2 | Passe de 3 à **6 blocs** de rayon |
+| `mega-foreuse` | **Foreuse** | Longueur ×2,5 | Fore de 8 à **20 blocs de profondeur** |
+| `geyser` | **Geyser** | Hauteur ×2 | Colonne propulsée de 4 à **8 blocs** |
+| `gardien` | **Gardien** | Explosion ×2,5 | Décharge en couronne d'yeux gardiens |
+| `feu-artifice` | **Fusées** | Impact ×2 | Passe de 2 à **4 blocs** de rayon |
+| `tnt` | **Explosion** | Rayon ×1,5 | Rayon d'explosion de 2 à **3 blocs** |
 | `thor` | **Thor** | Cratère | Génère un cratère de rayon 3 |
 | `chevre` | **Bélier** | Charge | Fonce violemment dans la paroi visée |
 
@@ -74,7 +74,7 @@ Ces sorts bénéficient d'un rayon ou d'une portée considérablement agrandis :
 ### 3. Compétences Réinventées (« REFONTE »)
 Certaines compétences ont reçu un comportement de jeu totalement nouveau :
 
-* **Jackpot (Machine à sous)** : Paie désormais **$\times 3$** dès que 3 symboles identiques s'alignent.
+* **Jackpot (Machine à sous)** : Paie désormais **×3** dès que 3 symboles identiques s'alignent.
 * **Halo** : Le halo d'énergie grandit automatiquement à chaque nouvelle vague.
 * **Sillage** : La traînée de feu gagne la paroi beaucoup plus loin et consume les blocs sur sa route.
 * **Aimant** : Récolte et paie les récompenses à chaque passage de l'effet.

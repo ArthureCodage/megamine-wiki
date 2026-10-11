@@ -10,7 +10,7 @@ Améliorer un équipement déclenche désormais une cinématique immersive en pl
 1. Les matériaux et minerais sont aspirés au centre de l'enclume magique.
 2. L'anneau d'énergie se charge progressivement dans une montée en tension dramatique.
 3. L'issue finale se révèle :
-   * **✨ SUPERNOVA !** : L'amélioration réussit, la pièce gagne son niveau supérieur (ex: $+3 \rightarrow +4$).
+   * **✨ SUPERNOVA !** : L'amélioration réussit, la pièce gagne son niveau supérieur (ex : +3 → +4).
    * **💨 IMPLOSION** : L'essai échoue, les matériaux sont consumés mais la pièce est préservée.
 
 > [!NOTE]
@@ -24,13 +24,13 @@ Le coût de fabrication et d'amélioration s'adapte à la rareté de l'objet :
 
 | Rareté de l'Objet | Multiplicateur de Coût |
 | :--- | :--- |
-| **Pièce Commune / Rare** | $\times 1,0$ (Coût de base) |
-| **Pièce Épique** | $\times 1,4$ |
-| **Pièce Légendaire / Multi-outil** | $\times 2,0$ |
+| **Pièce Commune / Rare** | ×1,0 (Coût de base) |
+| **Pièce Épique** | ×1,4 |
+| **Pièce Légendaire / Multi-outil** | ×2,0 |
 
 ---
 
 ## ⭐ Le Palier Ultime (+16 à +20)
 
-* **De $+1$ à $+15$** : Les améliorations d'objets rares s'effectuent via les matériaux classiques de minage.
-* **De $+16$ à $+20$** : Vous entrez dans l'artisanat de très haut niveau. Chaque essai requiert obligatoirement des **Éclats (Shards)** en plus des matériaux précieux.
+* **De +1 à +15** : Les améliorations d'objets rares s'effectuent via les matériaux classiques de minage.
+* **De +16 à +20** : Vous entrez dans l'artisanat de très haut niveau. Chaque essai requiert obligatoirement des **Éclats (Shards)** en plus des matériaux précieux.

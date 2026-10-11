@@ -15,8 +15,8 @@ Retrouvez ici les notes de mise à jour officielles et l'historique d'évolution
   * Réduction massive jusqu'à **-95 %** du mur de vie et de résistance des Mondes ★★★.
   * Suivi de la vie des ennemis, des coûts d'overtime et des prix d'achats.
 * **Économie & Stats** :
-  * Multiplicateur de vente maximum rehaussé de $\times 6$ à **$\times 8$**.
-  * Difficulté sans limite ($\rightarrow \infty$) : 1 point = 1 cran (+10 % argent, +15 % vie/dégâts ennemis).
+  * Multiplicateur de vente maximum rehaussé de ×6 à **×8**.
+  * Difficulté sans limite : 1 point = 1 cran (+10 % argent, +15 % vie/dégâts ennemis).
   * Affichage des vraies valeurs numériques sur les cartes de stats.
   * Possibilité de désactiver le Crâne de carrière au Codex.
 * **Confort de Jeu** :
@@ -41,7 +41,7 @@ Retrouvez ici les notes de mise à jour officielles et l'historique d'évolution
   * Apparition des vases dorés avec relique épique garantie (1 salle sur 5).
 * **La Forge : Cinématique de Surcharge** :
   * Cinématique plein écran lors des essais avec issue *Supernova* (succès) ou *Implosion* (échec).
-  * Paliers d'amélioration de $+16$ à $+20$ nécessitant des Éclats.
+  * Paliers d'amélioration de +16 à +20 nécessitant des Éclats.
 * **Agrandissement du Coffre** :
   * Possibilité de porter la capacité de stockage jusqu'à **20 lignes**.
 * **Boss : Seigneur des Abysses** :

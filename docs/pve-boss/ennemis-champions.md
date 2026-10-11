@@ -4,11 +4,11 @@ Pour maintenir un défi constant tout en récompensant la maîtrise de votre bui
 
 ---
 
-## 💀 La Difficulté Sans Limite (Crans Infinis $\rightarrow \infty$)
+## 💀 La Difficulté Sans Limite (Crans Infinis)
 
-Le jeu intègre un système d'ajustement dynamique de la difficulté :
+Le jeu intègre un système d'ajustement dynamique de la difficulté sans plafond :
 
-* **1 Point = 1 Cran de Difficulté**
+* **1 Point = 1 Cran de Difficulté** (aucune limite maximale)
 * **Bonus de Butin** : **+10 % d'argent** par cran validé.
 * **Résistance des Monstres** : **+15 % de points de vie et de dégâts** par cran pour tous les ennemis.
 
@@ -20,7 +20,7 @@ Ce ratio garantit que plus vous poussez la difficulté, plus les parties devienn
 
 * **La difficulté suit le Monde** : La robustesse des monstres est indexée sur le Monde dans lequel vous progressez (Monde 1 ★ à Monde 10 ★★★), et non sur le temps réel écoulé dans la partie.
 * **Hiérarchie Claire** :
-  $$\text{Ennemi de base} \prec \text{Champion avec Affixe} \prec \text{Boss de Monde}$$
+  - Ennemi de base → Champion avec Affixe → Boss de Monde
 * **Fin des monstres coincés** : Les ennemis et les boss détruisent désormais automatiquement les blocs de roche autour d'eux, vous empêchant de les bloquer artificiellement dans un trou.
 
 ---
