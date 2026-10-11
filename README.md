@@ -36,9 +36,10 @@ npm run docs:preview
    git add .
    git commit -m "feat: initialisation du wiki MegaMine"
    git branch -M main
-   git remote add origin https://github.com/<votre-pseudo>/megamine-wiki.git
+   git remote add origin https://github.com/ArthureCodage/megamine-wiki.git
    git push -u origin main
    ```
 3. Sur GitHub, rendez-vous dans **Settings** > **Pages** de votre dépôt :
    * Sous **Build and deployment** > **Source**, choisissez **GitHub Actions**.
 4. Le workflow automatique `.github/workflows/deploy.yml` va compiler et mettre votre site en ligne en quelques secondes !
+5. Votre site sera disponible sur : **https://arthurecodage.github.io/megamine-wiki/**

@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'MegaMine Wiki',
   description: 'Le guide et wiki communautaire non-officiel du mode MegaMine sur Rinaorc.',
   lang: 'fr-FR',
-  base: process.env.BASE_URL || '/',
+  base: process.env.BASE_URL || '/megamine-wiki/',
   head: [
     ['link', { rel: 'icon', href: '/logo.svg' }]
   ],
@@ -84,7 +84,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/rinaorc' },
-      { icon: 'github', link: 'https://github.com' }
+      { icon: 'github', link: 'https://github.com/ArthureCodage/megamine-wiki' }
     ],
     footer: {
       message: 'Wiki communautaire non-officiel pour Rinaorc MegaMine.',
